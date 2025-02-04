@@ -6,12 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG85aGJhanZldWxzcnN0b3dvNHhjNXM1N3k3aGpkdnJ5NTV3YTU2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
 ###
 
 # 💻 Tech Stack:
