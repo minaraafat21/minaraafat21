@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is Mina Raafat</h2>
+<div align="center">
 
-###
+# 👋 Hi, I'm Mina Raafat 
+### 🚀 Front-End Developer | Biomedical Engineering Student | Tech Enthusiast
+
+</div>
+
 
 <h4 align="left">🎓 Systems and Biomedical Engineering student at Faculty of Engineering - Cairo University<br>💡 Passionate about Software Development<br>🧑🏻‍💻 Always exploring new technologies and solving real-world problems</h4>
 
