@@ -56,12 +56,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQEBi40YEXAeXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724764135704?e=1744243200&v=beta&t=9fZGnIuYIDvrvWOPp399n5NuL8m-R1ySCz9ZUM1x2I8"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/mina-heinen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
