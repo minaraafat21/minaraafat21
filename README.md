@@ -2,7 +2,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/minaraafat21/minaraafat21/output/snake.svg" alt="Snake animation" />
+<h4 align="left">🎓 Systems and Biomedical Engineering student at Faculty of Engineering - Cairo University<br>💡 Passionate about Software Development<br>🧑🏻‍💻 Always exploring new technologies and solving real-world problems</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG85aGJhanZldWxzcnN0b3dvNHhjNXM1N3k3aGpkdnJ5NTV3YTU2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
 
@@ -48,11 +56,15 @@
   <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
 
-<h4 align="left">🚀 About Me:<br>🎓 Student at Faculty of Engineering - Cairo University<br>💡 Passionate about Software Development<br>🧑🏻‍💻 Always exploring new technologies and solving real-world problems</h4>
+<h3 align="left">Contact me:</h3>
 
 ###
 
@@ -60,9 +72,13 @@
   <a href="https://www.linkedin.com/in/mina-heinen/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mina.heinen2@gmail.com" target="_blank">
+  <a href="mailto:mina.heinen2@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/minaraafat21/minaraafat21/output/snake.svg" alt="Snake animation" />
 
 ###
