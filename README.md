@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Mina Raafat 
-### 🚀 Front-End Developer | Biomedical Engineering Student | Tech Enthusiast
+### 🚀 Biomedical Engineering Student | Full-stack Developer | Tech Enthusiast
 
 </div>
 
